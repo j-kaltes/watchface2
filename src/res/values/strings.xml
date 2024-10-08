@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juggluco analog</string>
+    <string name="ID_LABEL_ANALOG">@string/app_name</string>
+    <string name="watchface_title">@string/app_name</string>
+</resources>

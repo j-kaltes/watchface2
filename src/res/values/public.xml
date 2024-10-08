@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="preview" id="0x7f010019" />
+    <public type="drawable" name="preview_circular" id="0x7f01001a" />
+    <public type="drawable" name="style_wfs_9f66f941_887c_479d_9152_01965afe148d_0" id="0x7f01001b" />
+    <public type="drawable" name="style_wfs_9f66f941_887c_479d_9152_01965afe148d_1" id="0x7f01001c" />
+    <public type="drawable" name="style_wfs_9f66f941_887c_479d_9152_01965afe148d_2" id="0x7f01001d" />
+    <public type="drawable" name="style_wfs_9f66f941_887c_479d_9152_01965afe148d_3" id="0x7f01001e" />
+    <public type="drawable" name="style_wfs_9f66f941_887c_479d_9152_01965afe148d_4" id="0x7f01001f" />
+    <public type="drawable" name="style_wfs_a7579a62_bc9c_4630_9ae7_a9583d67950b_0" id="0x7f010020" />
+    <public type="drawable" name="style_wfs_a7579a62_bc9c_4630_9ae7_a9583d67950b_1" id="0x7f010021" />
+    <public type="drawable" name="wfs_battery_4aff1b6f_ac8e_4f58_a405_66452833d9da" id="0x7f010022" />
+    <public type="drawable" name="wfs_heart2_ce28e96c_cd85_4a52_85dc_b1562bca4fd3" id="0x7f010023" />
+    <public type="drawable" name="wfs_hour_classic_851abfc7_4669_48bd_9271_983b2322354e" id="0x7f010024" />
+    <public type="drawable" name="wfs_hour_decorative_4b8d49ee_7394_4108_9d10_65da190b5099" id="0x7f010025" />
+    <public type="drawable" name="wfs_hour_modern_38533a44_22d6_48e2_afe6_8e49287d45e9" id="0x7f010026" />
+    <public type="drawable" name="wfs_hour_modern_e3c8545a_0ac8_47e8_a8ab_3a43ca472610" id="0x7f010027" />
+    <public type="drawable" name="wfs_hour_shadow_simple_7ab3838b_116e_4e19_b7e3_c1b9940ffb5b" id="0x7f010028" />
+    <public type="drawable" name="wfs_hour_tidy_6155e119_db26_4504_9a11_1baa4cc239e4" id="0x7f010029" />
+    <public type="drawable" name="wfs_index_1728310543050_8296cde6_66d6_4c40_87ae_b9f855ee8af7" id="0x7f01002a" />
+    <public type="drawable" name="wfs_index_1728310543059_8794bf2e_a028_4f1a_a1fc_4003d14bedb6" id="0x7f01002b" />
+    <public type="drawable" name="wfs_index_1728310543066_2b0bfa0f_2a53_4668_a05f_4bf595eea575" id="0x7f01002c" />
+    <public type="drawable" name="wfs_min_classic_3002bfe8_4c6c_4837_aca1_57a2c03e195c" id="0x7f01002d" />
+    <public type="drawable" name="wfs_min_dot_5e4e1714_2be1_483f_81ff_b841bdaaf04f" id="0x7f01002e" />
+    <public type="drawable" name="wfs_min_modern_40ed4d0e_fec3_44f2_8b34_74c7604e6be1" id="0x7f01002f" />
+    <public type="drawable" name="wfs_min_modern_756e451a_5ca6_44a6_9f67_3e9e2a433d25" id="0x7f010030" />
+    <public type="drawable" name="wfs_min_shadow_simple_5199e3f8_57ab_497a_ae22_b8c54b4b07a7" id="0x7f010031" />
+    <public type="drawable" name="wfs_min_tidy_3a71d8f6_d511_4f62_bb72_6400974cca7c" id="0x7f010032" />
+    <public type="drawable" name="wfs_sec_classic_da9a7780_c955_4c0c_bd1e_2f7cf7b82318" id="0x7f010033" />
+    <public type="drawable" name="wfs_sec_dot_d3c434b1_ec78_4877_968c_af20aced63f8" id="0x7f010034" />
+    <public type="drawable" name="wfs_sec_modern_a2e41091_bf77_4b45_912b_3a9715d0dd6d" id="0x7f010035" />
+    <public type="drawable" name="wfs_sec_shadow_simple_bd2cf64c_6209_4d08_b24e_cbc30be054c8" id="0x7f010036" />
+    <public type="drawable" name="wfs_sec_simple_fd6ac546_501d_4b97_8e2f_ba2aedb22020" id="0x7f010037" />
+    <public type="raw" name="watchface" id="0x7f020002" />
+    <public type="string" name="ID_LABEL_ANALOG" id="0x7f030003" />
+    <public type="string" name="app_name" id="0x7f030004" />
+    <public type="string" name="watchface_title" id="0x7f030006" />
+    <public type="xml" name="watch_face" id="0x7f040003" />
+    <public type="xml" name="watch_face_info" id="0x7f040004" />
+    <public type="xml" name="watch_face_shapes" id="0x7f040005" />
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:dist="http://schemas.android.com/apk/distribution" android:versionCode="1" android:versionName="0.0.1" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" dist:requiredSplitTypes="base__density" dist:splitTypes="" package="tk.glucodata.watchface2" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-sdk android:minSdkVersion="33" android:targetSdkVersion="34" />
+
+    <uses-feature android:name="android.hardware.type.watch"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.samsung.android.watch.watchface.hideinformation.setting.READ_HIDE_INFORMATION"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <uses-permission android:name="com.samsung.android.watch.watchface.companionhelper.READ_DATABASE"/>
+    <uses-permission android:name="com.samsung.android.watch.watchface.companionhelper.WRITE_DATABASE"/>
+    <uses-permission android:name="com.google.android.wearable.permission.BIND_WATCH_FACE_CONTROL"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <uses-permission android:name="com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA"/>
+    <uses-permission android:name="android.permission.BODY_SENSORS"/>
+    <uses-permission android:name="com.google.android.wearable.healthservices.permission.PASSIVE_DATA_BINDING"/>
+    <queries>
+        <intent>
+            <action android:name="android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.MAIN"/>
+            <category android:name="android.intent.category.LAUNCHER"/>
+        </intent>
+    </queries>
+    <queries>
+        <package android:name="com.google.android.wearable.healthservices"/>
+    </queries>
+    <application android:debuggable="true" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@drawable/preview" android:label="@string/app_name" android:hasCode="false" android:supportsRtl="true" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        <meta-data android:name="com.google.android.wearable.standalone" android:value="true"/>
+        <property android:name="com.google.wear.watchface.format.version" android:value="1"/>
+        <uses-library android:name="com.google.android.wearable" android:required="false"/>
+    </application>
+</manifest>
